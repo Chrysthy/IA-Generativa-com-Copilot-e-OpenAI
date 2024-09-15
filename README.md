@@ -1,6 +1,12 @@
 # Explorando os Recursos de IA Generativa com Copilot e OpenAI
 
-### **Resumo**
+## Visão Geral
+
+Este projeto realiza o reconhecimento de texto e imagens utilizando o [Microsoft Copilot | IA da Microsoft](https://www.microsoft.com/pt-br/microsoft-copilot). O objetivo foi criar um script que pudesse processar imagens e extrair o conteúdo textual, salvando o resultado em arquivos de texto.
+
+![Imagem do site da Microsoft Copilot](/.github/copilot-microsoft.png)
+
+## **Breve Descrição**
 
 A integração do Copilot com a tecnologia de IA generativa da OpenAI oferece uma ampla gama de recursos que podem transformar a maneira como trabalhamos e interagimos com a tecnologia. Esses recursos incluem:
 
@@ -14,7 +20,13 @@ A integração do Copilot com a tecnologia de IA generativa da OpenAI oferece um
 
 Esses recursos tornam o Copilot uma ferramenta poderosa para profissionais de diversas áreas, desde negócios até educação e criatividade.
 
-Links Importantes
+## Estrutura de Pastas
+
+- `inputs/`: Contém as imagens de entrada utilizadas para o reconhecimento.
+
+- `outputs/`: Contém os arquivos resultantes do reconhecimento de texto e das imagens.
+
+## Links Importantes
 
 [Explore generative AI with Microsoft Copilot](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html).
 
