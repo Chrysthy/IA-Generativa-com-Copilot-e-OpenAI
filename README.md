@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto realiza o reconhecimento de texto e imagens utilizando o [Microsoft Copilot | IA da Microsoft](https://www.microsoft.com/pt-br/microsoft-copilot). O objetivo foi criar um script que pudesse processar imagens e extrair o conteúdo textual, salvando o resultado em arquivos de texto.
+Este projeto realiza o reconhecimento de texto e imagens utilizando o [Microsoft Copilot | IA da Microsoft](https://www.microsoft.com/pt-br/microsoft-copilot). O objetivo foi criar um script que pudesse processar imagens e extrair o conteúdo textual, salvando os resultados nos aqruivos de inputs e outputs.
 
 ![Imagem do site da Microsoft Copilot](/.github/copilot-microsoft.png)
 
