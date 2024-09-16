@@ -22,7 +22,7 @@ Esses recursos tornam o Copilot uma ferramenta poderosa para profissionais de di
 
 ## Estrutura de Pastas
 
-- `inputs/`: Contém as imagens de entrada utilizadas para o reconhecimento.
+- `inputs/`: Contém as imagens es textos de entrada utilizadas para o reconhecimento.
 
 - `outputs/`: Contém os arquivos resultantes do reconhecimento de texto e das imagens.
 
